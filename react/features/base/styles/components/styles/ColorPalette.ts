@@ -6,7 +6,7 @@
 /**
  * The application's definition of the default color black.
  */
-const BLACK = '#111111';
+const BLACK = '#ffffff';
 
 /**
  * The application's color palette.
